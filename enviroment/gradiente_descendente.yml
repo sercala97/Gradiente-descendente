@@ -1,6 +1,7 @@
 name: gd_eva
 channels:
   - conda-forge
+  - anaconda
   - defaults
 dependencies:
   - blas=1.0=mkl
