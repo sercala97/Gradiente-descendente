@@ -1,5 +1,6 @@
 # Gradiente-descendente
 Repositorio creado para la tarea de Machine Learning sobre el entendimiento del descenso del gradiente
+link github: https://github.com/sercala97/MachineLearningGIT/tree/main/lab01
 
 # Ejercicio
 
